@@ -1,0 +1,439 @@
+.mdi-home {
+	color: #00a19a!important;
+}
+
+input {
+	border-color: #009690!important;
+	color: #009690!important;
+	height: 25px!important;
+}
+
+.input-acreditation {
+	border-color: white!important;
+	color: #009690!important;
+	height: 25px!important;
+	padding: 0px!important;
+}
+
+.td-acreditation {
+	padding: 0px!important;
+}
+
+select {
+	border: thin solid #009690!important;
+	height: 25px!important;
+	padding: 3px!important;
+	color: #004b48!important;
+}
+
+label {
+	color: #004b48!important;
+	margin: 0px!important;
+}
+
+textarea {
+	border: thin solid #009690!important;
+}
+
+
+/*Diseño icono de ayuda*/
+
+.mdi-alert-circle {
+	color: #009690!important;
+}
+
+h2 {
+	color: #004b48!important;
+	font-size: 20px!important;
+}
+
+
+/*Diseño para la tabla de detalle de terifas ver*/
+
+.detail-currency-right {
+	text-align: right;
+}
+
+
+/*diseño para centrar ciertos campos de una tabla*/
+
+.center {
+	text-align: center;
+}
+
+.index-table td {
+	text-align: center!important;
+}
+
+
+/*Diseño para modulo de gestionar solicitud*/
+
+.manage-apply .borderless td {
+	border: none;
+}
+
+.borderless {
+	border: none;
+}
+
+
+/*Log-in*/
+
+.body-log-in {
+	background-color: #fafafa!important;
+	color: #373a6d;
+}
+
+.body-log-in .btn {
+	background-color: #009690!important;
+	border-color: #009690;
+}
+
+.body-log-in .btn:hover {
+	opacity: 0.50;
+	-moz-opacity: .80;
+	filter: alpha (opacity=50);
+}
+
+
+/*----*/
+
+.errors {
+	color: #580f06;
+	font-size: 10px;
+}
+
+.icon-see {
+	color: #009690!important;
+}
+
+.icon-accreditation {
+	color: #009690!important;
+}
+
+.icon-edit {
+	color: #009690!important;
+}
+
+
+
+.content-wrapper {
+	background-color: #fafafa;
+}
+
+.app-container-root {
+	background-color: #fafafa;
+	margin-top: 0px!important;
+}
+
+.main-panel {
+	margin-top: 25px;
+	height: auto!important;
+	background-color: #fafafa!important;
+}
+
+.footer {
+	color: white;
+}
+
+
+
+.page-body-wrapper {
+	padding-top: 2em!important;
+}
+
+
+/*TITULOS DE PAGINA*/
+
+div .mr-md-3 h2 {
+	color: 009690;
+}
+
+div .mb-md-0 {
+	margin-left: 10px!important;
+	color: #373a6d;
+}
+
+
+/*      ESTILOS PARA MODIFICAR VUE TABLE 2         */
+
+.card .card-title {
+	margin-bottom: 0rem;
+}
+
+.VueTables {
+	margin-top: 0px !important;
+}
+
+.VueTables .row {
+	float: right;
+}
+
+.VueTables--client {
+	padding-top: 0px !important;
+}
+
+.VueTables .VueTables__search-field .VueTables__search__input {
+	font-size: 12px;
+	padding: 5px;
+	width: 30em !important;
+	height: 25px!important;
+	padding: 3px!important;
+}
+
+.VueTables .table-responsive .VueTables__table thead tr th {
+	font-size: 10px!important;
+	padding: 10px !important;
+	background-color: #009690;
+	color: #f8f8f8!important;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+thead tr th {
+	font-size: 10px!important;
+	padding: 10px !important;
+	background-color: #009690;
+	color: #f8f8f8!important;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.VueTables .table-responsive .VueTables__table tbody tr td {
+	font-size: 12px;
+	padding: 10px !important;
+	color: #009690!important;
+}
+
+tbody tr td {
+	font-size: 12px;
+	padding: 10px !important;
+	color: #009690!important;
+}
+
+.grid-bottom-button {
+	margin-top: 20px;
+	float: right;
+}
+
+
+/*BOTON PARA PASAR ARECHAZAR*/
+
+.btn-reject-item {
+	background-color: #fa4252;
+	color: #f8f8f8 !important;
+	border-radius: 50%;
+	display: block;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+.btn-reject-item:hover {
+	opacity: 0.50;
+	-moz-opacity: .50;
+	filter: alpha (opacity=50);
+}
+
+
+/*BOTON PARA APROBAR*/
+
+.btn-approve-item {
+	background-color: #009690;
+	color: #f8f8f8 !important;
+	border-radius: 50%;
+	display: block;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+.btn-approve-item:hover {
+	opacity: 0.50;
+	-moz-opacity: .50;
+	filter: alpha (opacity=50);
+}
+
+
+/*BOTON PARA volver*/
+
+.btn-back-item {
+	background-color: #c9d1d3;
+	color: #f8f8f8 !important;
+	border-radius: 50%;
+	display: block;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+.btn-back-item:hover {
+	opacity: 0.50;
+	-moz-opacity: .50;
+	filter: alpha (opacity=50);
+}
+
+
+/*BOTON BORRAR LINEA LISTADO*/
+
+.btn-delete {
+	background-color: #fa4252;
+	color: #f8f8f8 !important;
+	border-radius: 50%;
+	display: block;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+.btn-delete:hover {
+	opacity: 0.50;
+	-moz-opacity: .50;
+	filter: alpha (opacity=50);
+}
+
+.btn-delete-row {
+	background-color: #fa4252;
+	color: #f8f8f8 !important;
+	display: block;
+	border-radius: 10px 200px 200px 10px;
+	-moz-border-radius: 10px 200px 200px 10px;
+	-webkit-border-radius: 10px 200px 200px 10px;
+}
+
+.btn-delete-row:hover {
+	opacity: 0.50;
+	-moz-opacity: .50;
+	filter: alpha (opacity=50);
+}
+
+
+/*BOTON ADD LINEA LISTADO*/
+
+.btn-add-row {
+	background-color: #617be3;
+	color: #f8f8f8 !important;
+	border-radius: 50%;
+	display: block;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+.btn-add-row:hover {
+	opacity: 0.50;
+	-moz-opacity: .50;
+	filter: alpha (opacity=50);
+}
+
+.circle-info {
+	font-size: 12px!important;
+}
+
+.form-group {
+	margin: 0px 0px 15px 0px!important;
+}
+
+.swal2-modal {
+	background-color: #009690 !important;
+	border-radius: 0px 0px 0px 0px;
+	-moz-border-radius: 0px 0px 0px 0px;
+	-webkit-border-radius: 0px 0px 0px 0px;
+	border: 0px solid #000000;
+}
+
+.swal2-input {
+	background-color: white!important;
+}
+
+.swal2-title {
+	color: white!important;
+	font-size: 18px!important;
+	font-weight: bold;
+}
+
+.swal2-content {
+	color: white!important;
+	font-size: 14px!important;
+}
+
+.swal2-icon {
+	color: #f5a623 !important;
+}
+
+.swal2-confirm {
+	background-color: #53c491!important;
+}
+
+.swal2-cancel {
+	background-color: #b83e3e!important;
+}
+
+.loader {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url('loader.gif') 50% 50% no-repeat rgb(249, 249, 249);
+	opacity: 0.4;
+}
+
+.mdi-sort-variant {
+	color: white!important;
+}
+
+.v--modal-box {
+	height: auto!important;
+}
+
+.VuePagination__count {
+	margin-top: 15px!important;
+	color: #009690!important;
+}
+
+.VueTables__search {
+	color: #009690!important;
+}
+
+ ::placeholder {
+	color: #009690!important;
+}
+
+.MANAGEMENT_APPROVE {
+	background-color: #009690;
+}
+
+.detail-rates-table-td {
+	font-size: 12px!important;
+}
+
+.table thead th {
+	height: 15px!important;
+	padding: 5px!important;
+}
+
+.mdi-checkbox-marked-circle {
+	color: green;
+}
+
+.mdi-checkbox-blank-circle {
+	color: red;
+}
+
+.mdi-tooltip-edit {
+	color: blue;
+}
+
+.viewer-toolbar ul li {
+	font-size: 1px!important;
+}
+
+.span-title {
+	color: #004b48!important;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+
+.p-description-module{
+	width: 800px;
+	text-align: justify;
+	padding-left: 30px;
+}
